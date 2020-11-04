@@ -1,0 +1,13 @@
+C:\Users\CASPER\Desktop\c# console\Random\bin\Debug\netcoreapp3.1\Random.exe
+C:\Users\CASPER\Desktop\c# console\Random\bin\Debug\netcoreapp3.1\Random.deps.json
+C:\Users\CASPER\Desktop\c# console\Random\bin\Debug\netcoreapp3.1\Random.runtimeconfig.json
+C:\Users\CASPER\Desktop\c# console\Random\bin\Debug\netcoreapp3.1\Random.runtimeconfig.dev.json
+C:\Users\CASPER\Desktop\c# console\Random\bin\Debug\netcoreapp3.1\Random.dll
+C:\Users\CASPER\Desktop\c# console\Random\bin\Debug\netcoreapp3.1\Random.pdb
+C:\Users\CASPER\Desktop\c# console\Random\obj\Debug\netcoreapp3.1\Random.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\c# console\Random\obj\Debug\netcoreapp3.1\Random.AssemblyInfoInputs.cache
+C:\Users\CASPER\Desktop\c# console\Random\obj\Debug\netcoreapp3.1\Random.AssemblyInfo.cs
+C:\Users\CASPER\Desktop\c# console\Random\obj\Debug\netcoreapp3.1\Random.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\c# console\Random\obj\Debug\netcoreapp3.1\Random.dll
+C:\Users\CASPER\Desktop\c# console\Random\obj\Debug\netcoreapp3.1\Random.pdb
+C:\Users\CASPER\Desktop\c# console\Random\obj\Debug\netcoreapp3.1\Random.genruntimeconfig.cache
