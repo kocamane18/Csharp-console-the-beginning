@@ -1,0 +1,13 @@
+C:\Users\CASPER\Desktop\Kapsülleme\bin\Debug\netcoreapp3.1\Kapsülleme.exe
+C:\Users\CASPER\Desktop\Kapsülleme\bin\Debug\netcoreapp3.1\Kapsülleme.deps.json
+C:\Users\CASPER\Desktop\Kapsülleme\bin\Debug\netcoreapp3.1\Kapsülleme.runtimeconfig.json
+C:\Users\CASPER\Desktop\Kapsülleme\bin\Debug\netcoreapp3.1\Kapsülleme.runtimeconfig.dev.json
+C:\Users\CASPER\Desktop\Kapsülleme\bin\Debug\netcoreapp3.1\Kapsülleme.dll
+C:\Users\CASPER\Desktop\Kapsülleme\bin\Debug\netcoreapp3.1\Kapsülleme.pdb
+C:\Users\CASPER\Desktop\Kapsülleme\obj\Debug\netcoreapp3.1\Kapsülleme.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\Kapsülleme\obj\Debug\netcoreapp3.1\Kapsülleme.AssemblyInfoInputs.cache
+C:\Users\CASPER\Desktop\Kapsülleme\obj\Debug\netcoreapp3.1\Kapsülleme.AssemblyInfo.cs
+C:\Users\CASPER\Desktop\Kapsülleme\obj\Debug\netcoreapp3.1\Kapsülleme.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Kapsülleme\obj\Debug\netcoreapp3.1\Kapsülleme.dll
+C:\Users\CASPER\Desktop\Kapsülleme\obj\Debug\netcoreapp3.1\Kapsülleme.pdb
+C:\Users\CASPER\Desktop\Kapsülleme\obj\Debug\netcoreapp3.1\Kapsülleme.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\CASPER\Desktop\Kalıtım\bin\Debug\netcoreapp3.1\Kalıtım.exe
+C:\Users\CASPER\Desktop\Kalıtım\bin\Debug\netcoreapp3.1\Kalıtım.deps.json
+C:\Users\CASPER\Desktop\Kalıtım\bin\Debug\netcoreapp3.1\Kalıtım.runtimeconfig.json
+C:\Users\CASPER\Desktop\Kalıtım\bin\Debug\netcoreapp3.1\Kalıtım.runtimeconfig.dev.json
+C:\Users\CASPER\Desktop\Kalıtım\bin\Debug\netcoreapp3.1\Kalıtım.dll
+C:\Users\CASPER\Desktop\Kalıtım\bin\Debug\netcoreapp3.1\Kalıtım.pdb
+C:\Users\CASPER\Desktop\Kalıtım\obj\Debug\netcoreapp3.1\Kalıtım.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\Kalıtım\obj\Debug\netcoreapp3.1\Kalıtım.AssemblyInfoInputs.cache
+C:\Users\CASPER\Desktop\Kalıtım\obj\Debug\netcoreapp3.1\Kalıtım.AssemblyInfo.cs
+C:\Users\CASPER\Desktop\Kalıtım\obj\Debug\netcoreapp3.1\Kalıtım.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Kalıtım\obj\Debug\netcoreapp3.1\Kalıtım.dll
+C:\Users\CASPER\Desktop\Kalıtım\obj\Debug\netcoreapp3.1\Kalıtım.pdb
+C:\Users\CASPER\Desktop\Kalıtım\obj\Debug\netcoreapp3.1\Kalıtım.genruntimeconfig.cache
