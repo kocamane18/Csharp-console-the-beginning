@@ -1,0 +1,13 @@
+C:\Users\CASPER\Desktop\ref komutu\bin\Debug\netcoreapp3.1\ref komutu.exe
+C:\Users\CASPER\Desktop\ref komutu\bin\Debug\netcoreapp3.1\ref komutu.deps.json
+C:\Users\CASPER\Desktop\ref komutu\bin\Debug\netcoreapp3.1\ref komutu.runtimeconfig.json
+C:\Users\CASPER\Desktop\ref komutu\bin\Debug\netcoreapp3.1\ref komutu.runtimeconfig.dev.json
+C:\Users\CASPER\Desktop\ref komutu\bin\Debug\netcoreapp3.1\ref komutu.dll
+C:\Users\CASPER\Desktop\ref komutu\bin\Debug\netcoreapp3.1\ref komutu.pdb
+C:\Users\CASPER\Desktop\ref komutu\obj\Debug\netcoreapp3.1\ref komutu.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\ref komutu\obj\Debug\netcoreapp3.1\ref komutu.AssemblyInfoInputs.cache
+C:\Users\CASPER\Desktop\ref komutu\obj\Debug\netcoreapp3.1\ref komutu.AssemblyInfo.cs
+C:\Users\CASPER\Desktop\ref komutu\obj\Debug\netcoreapp3.1\ref komutu.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\ref komutu\obj\Debug\netcoreapp3.1\ref komutu.dll
+C:\Users\CASPER\Desktop\ref komutu\obj\Debug\netcoreapp3.1\ref komutu.pdb
+C:\Users\CASPER\Desktop\ref komutu\obj\Debug\netcoreapp3.1\ref komutu.genruntimeconfig.cache
