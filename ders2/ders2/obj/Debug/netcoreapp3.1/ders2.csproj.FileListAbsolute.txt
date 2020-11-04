@@ -1,0 +1,13 @@
+C:\Users\CASPER\Desktop\c# console\ders2\ders2\bin\Debug\netcoreapp3.1\ders2.exe
+C:\Users\CASPER\Desktop\c# console\ders2\ders2\bin\Debug\netcoreapp3.1\ders2.deps.json
+C:\Users\CASPER\Desktop\c# console\ders2\ders2\bin\Debug\netcoreapp3.1\ders2.runtimeconfig.json
+C:\Users\CASPER\Desktop\c# console\ders2\ders2\bin\Debug\netcoreapp3.1\ders2.runtimeconfig.dev.json
+C:\Users\CASPER\Desktop\c# console\ders2\ders2\bin\Debug\netcoreapp3.1\ders2.dll
+C:\Users\CASPER\Desktop\c# console\ders2\ders2\bin\Debug\netcoreapp3.1\ders2.pdb
+C:\Users\CASPER\Desktop\c# console\ders2\ders2\obj\Debug\netcoreapp3.1\ders2.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\c# console\ders2\ders2\obj\Debug\netcoreapp3.1\ders2.AssemblyInfoInputs.cache
+C:\Users\CASPER\Desktop\c# console\ders2\ders2\obj\Debug\netcoreapp3.1\ders2.AssemblyInfo.cs
+C:\Users\CASPER\Desktop\c# console\ders2\ders2\obj\Debug\netcoreapp3.1\ders2.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\c# console\ders2\ders2\obj\Debug\netcoreapp3.1\ders2.dll
+C:\Users\CASPER\Desktop\c# console\ders2\ders2\obj\Debug\netcoreapp3.1\ders2.pdb
+C:\Users\CASPER\Desktop\c# console\ders2\ders2\obj\Debug\netcoreapp3.1\ders2.genruntimeconfig.cache
